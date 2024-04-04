@@ -1,7 +1,7 @@
 # MEMORY-GAME
 I have created a math-themed memory game in Python to boost math skills in Mexican students for better PISA test results.
 
-![MEMORY-GAME](memory game.png)
+![MEMORY-GAME](memory_game.jpg)
 
 ## Description
 I have developed a memory game in Python with a mathematical operations theme, designed for players to compete against the computer. This project was created with the specific goal of improving the mathematical performance of children taking the PISA (Programme for International Student Assessment) test in Mexico. In recent years, the PISA test results in Mexico have shown a significant decline in mathematical proficiency among students.
